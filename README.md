@@ -16,9 +16,7 @@ Sample output when `canada` is selected.
                  Manitoba                    Canada                            993                             49
 
             New Brunswick                    Canada                            189                              0
-
-Newfoundland and Labrador                    Canada                            268                              0
-
+            
     Northwest Territories                    Canada                              5                              0
 
               Nova Scotia                    Canada                           1080                              0
@@ -32,4 +30,6 @@ Newfoundland and Labrador                    Canada                            2
              Saskatchewan                    Canada                           1602                              2
 
                     Yukon                    Canada                             15                              0
+                    
+Newfoundland and Labrador                    Canada                            268                              0
 
