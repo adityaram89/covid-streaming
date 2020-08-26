@@ -18,6 +18,8 @@ Sample output when `canada` is selected.
             New Brunswick                    Canada                            189                              0
             
     Northwest Territories                    Canada                              5                              0
+    
+    Newfoundland and Labrador                Canada                            268                              0
 
               Nova Scotia                    Canada                           1080                              0
 
@@ -31,5 +33,4 @@ Sample output when `canada` is selected.
 
                     Yukon                    Canada                             15                              0
                     
-Newfoundland and Labrador                    Canada                            268                              0
 
